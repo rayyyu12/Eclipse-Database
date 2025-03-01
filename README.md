@@ -2,8 +2,6 @@
 
 A Django-based license key management system for software applications. This system provides a database and CLI interface to create, manage, and validate license keys for your software products.
 
-![License Manager](https://via.placeholder.com/800x400?text=License+Manager)
-
 ## Overview
 
 The License Manager is a standalone Django application designed to handle all aspects of software licensing:
